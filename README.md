@@ -3,7 +3,7 @@
 Snake game is a classic game that offers a simple and fun experience. The player controls a snake that must avoid obstacles and itself as it grows, providing a relaxing way to play
 
 # Data Structures Used:
-2D Array (bg[][]): representing the game grid.<space><space>Arrays (x[], y[]): storing coordinates of snake segments.  Point Class: for storing coordinates of food.
+2D Array (bg[][]): representing the game grid. <space><space> Arrays (x[], y[]): storing coordinates of snake segments.  Point Class: for storing coordinates of food.
 
 # Algorithms Implemented:
 Snake Movement: logic for updating the snake's position based on user input.  Collision Detection: algorithms to check if the snake collides with itself or game borders.  Food Placement: algorithm for randomly placing food (apples) on the game grid.
