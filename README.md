@@ -1,8 +1,9 @@
 # Snake Game Project
-Introduction: Snake game is a classic game that offers a simple and fun experience. The player controls a snake that must avoid obstacles and itself as it grows, providing a relaxing way to play
+# Introduction: 
+Snake game is a classic game that offers a simple and fun experience. The player controls a snake that must avoid obstacles and itself as it grows, providing a relaxing way to play
 
 # Data Structures Used:
-2D Array (bg[][]): representing the game grid.
+2D Array (bg[][]): representing the game grid. /n
 Arrays (x[], y[]): storing coordinates of snake segments.
 Point Class: for storing coordinates of food.
 
